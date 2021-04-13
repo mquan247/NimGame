@@ -4,7 +4,11 @@ và bốc ra một số viên sỏi (ít nhất 1 viên hoặc nhiều nhất l�
 tính theo các yêu cầu:
 # 
 a. Số đống sỏi lúc đầu được nhập từ bàn phím
+#
 b. Số lượng viên sỏi trong mỗi đống được sinh ngẫu nhiên
+#
 c. Máy sẽ gieo xu để xác định người hay máy đi trước
+#
 d. Có thông báo số lượng trong mỗi đống trước và sau mỗi lượt đi
+#
 e. Thông báo kết quả cuối cùng
