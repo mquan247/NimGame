@@ -3,7 +3,7 @@
 #include<ctime>
 #include <fstream>
 using namespace std;
-const int maxpile = 5;				// so dong lon nhat co the tao ra
+const int maxpile = 5;				// so dong lon nhat co the tao 
 const int maxgravel = 7;			// so soi lon nhat trong 1 dong
 int n, cur_piles;
 //
